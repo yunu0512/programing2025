@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\programing2025\\Project1\\",
+  "WorkspaceRootPath": "C:\\github\\programing2025\\helloworld3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11F18C31-25BC-4622-9824-DD8A37509DE5}|Project1.vcxproj|C:\\github\\programing2025\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11F18C31-25BC-4622-9824-DD8A37509DE5}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{51C4E824-5711-48E9-BD86-D827A48B6149}|helloworld3.vcxproj|C:\\github\\programing2025\\helloworld3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51C4E824-5711-48E9-BD86-D827A48B6149}|helloworld3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\github\\programing2025\\Project1\\main.cpp",
+              "DocumentMoniker": "C:\\github\\programing2025\\helloworld3\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\github\\programing2025\\Project1\\main.cpp",
+              "ToolTip": "C:\\github\\programing2025\\helloworld3\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-08T07:03:49.083Z",
+              "WhenOpened": "2025-09-08T07:21:32.353Z",
               "EditorCaption": ""
             }
           ]
