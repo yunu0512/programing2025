@@ -3,11 +3,11 @@
 int main()
 {
     printf("===Basic constants=== \n\n");
-    printf("name   :%s\n","taejun");
-    printf("initial: %c\n", 's');
-    printf("Age: %d\n", 21);
-    printf("score  : %6f\n", 93.5f);
-    printf("count  : %u\n", 3000000000);
+    printf("name\t:%s\n\n","taejun");
+    printf("initial\t:%c\n\n", 's');
+    printf("Age:%d\n\n",21);
+    printf("score\t:%6f\n\n", 93.5f);
+    printf("6count\t:%u\n\n", 3000000000);
 
     return 0;
 }
