@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("===Basic constants=== \n");
+    printf("===Basic constants=== \n\n");
     printf("name   :%s\n","taejun");
     printf("initial: %c\n", 's');
     printf("Age: %d\n", 21);
