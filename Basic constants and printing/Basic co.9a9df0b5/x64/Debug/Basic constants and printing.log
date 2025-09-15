@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\github\programing2025\Basic constants and printing\main.cpp(10,12): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+      C:\github\programing2025\Basic constants and printing\main.cpp(10,12):
+      서식 문자열에서 '%llu'을(를) 사용하는 것이 좋습니다.
+      C:\github\programing2025\Basic constants and printing\main.cpp(10,12):
+      서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
+      C:\github\programing2025\Basic constants and printing\main.cpp(10,12):
+      서식 문자열에서 '%I64u'을(를) 사용하는 것이 좋습니다.
+  
+  Basic constants and printing.vcxproj -> C:\github\programing2025\Basic constants and printing\x64\Debug\Basic constants and printing.exe
