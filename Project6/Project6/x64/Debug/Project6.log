@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\github\programing2025\Project6\main.cpp(17,16): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\github\programing2025\Project6\main.cpp(17,16): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\github\programing2025\Project6\main.cpp(49,16): warning C4566: 유니버설 문자 이름 '\u26A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\github\programing2025\Project6\main.cpp(49,16): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\github\programing2025\Project6\main.cpp(3,12): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.
